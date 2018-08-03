@@ -1,0 +1,6 @@
+.rowi {
+    width: 4em;
+    height: 3em;
+    display: inline-table;
+    border: solid 1px blueviolet;
+}
