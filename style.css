@@ -1,0 +1,9 @@
+.pixelDiv, .paletteDiv {
+    width: 22px;
+    height: 22px;
+    border: 1px solid black;
+  }
+  
+  .rowDiv, .paletteRow{
+    display:flex;
+  }
